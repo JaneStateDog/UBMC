@@ -1,0 +1,24 @@
+Majority of credit goes to UnityPy and it's creator. If it wasn't for it I would've been stuck doing all this in C++ and reverse engineering more stuff and it just wouldn't have been as fun as it was.
+UnityPy's Discord was also a huge help! It's creator was very helpful when I had bugs to report and questions to ask
+Credit goes to FMOD for letting me YOINK their thingy that lets me do stuff with FSB files without too much pain
+Credit goes to quickbms and it's creator who also wrote the bank script I used with it
+Credit goes to uTinyRipper, UnityAssetsBundleExtractor, FMOD Bank Tools, and dnSpy. While none of their code is in these files, they made the process
+of figuring out how this game worked a LOT easier. I couldn't have done it without them
+Credit goes to the guy that invented Python because I forgot how easy Python was compared to stupid C++
+Credit goes to VLC Media Player for constantly crashing and breaking files
+Credit goes to all my friends that somehow put up with me messaging them at five in the morning "okay I got PART of it working. I'm going to bed for now" every day
+Credit probably goes to a bunch of other things that don't realllllyyyyy need credit but I can make a funny joke out of them
+Then there's credit for the real reason all this was done. Unbeatable! God I love this game, it's so good. Thank you for making it D-Cell. I wish you the best of luck with the full game
+and you bet I'll be buying it right away
+
+
+I'm no lawyer, I don't know how legal stuff works. If the fact I'm distributing anything in this tool that I shouldn't be is an issue, let me know and I'll try my best to fix it
+I'm just some programmer making stuff for a game I like and hoping others will like the thing I make so they can make stuff that I can then go play
+I don't mean to get into any legal trouble so yeah just let me know if there's any issues
+
+
+Oh! Credit also goes to funky, who both made me feel like crap and helped me at the same time. I started modding this game
+and had gotten a good amount into it but got a bit stuck. I looked at the Unbeatable guies and saw funky's mod tutorial
+It kinda made me sad someone beat me to the punch but they also explained that FMOD Bank Tool exists which saved me a lot of time
+So thank you funky for finding FMOD Bank Tool but also frick you because I wanted to be the first to mod this game lmao
+jk jk luv you have a good day

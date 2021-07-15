@@ -1,0 +1,700 @@
+{
+    "WhiteLabelMainMenu": [
+        {
+            "level": 0,
+            "type": "MonoBehaviour",
+            "name": "Base",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<GameObject>",
+            "name": "m_GameObject",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "UInt8",
+            "name": "m_Enabled",
+            "meta_flag": 16384
+        },
+        {
+            "level": 1,
+            "type": "PPtr<MonoScript>",
+            "name": "m_Script",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "m_Name",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineVirtualCamera>",
+            "name": "defaultCam",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineVirtualCamera>",
+            "name": "levelSelectCam",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineVirtualCamera>",
+            "name": "playCam",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineVirtualCamera>",
+            "name": "beatmapOptionsCam",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineVirtualCamera>",
+            "name": "optionsCam",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<CinemachineImpulseSource>",
+            "name": "impulseSource",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<GameObject>",
+            "name": "optionsMenu",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<BeatmapOptionsMenu>",
+            "name": "beatmapOptionsMenu",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<Animator>",
+            "name": "Walkman",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "SongNameA",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "DifficultyNameA",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "HighScoreA",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "SongNameB",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "DifficultyNameB",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<TextMeshPro>",
+            "name": "HighScoreB",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<Transform>",
+            "name": "TitleParent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "List`1",
+            "name": "TopLayerOptions",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "PPtr<UISelectionBase>",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<UISelectionButton>",
+            "name": "PlayOption",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<Transform>",
+            "name": "TopLayerParent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "List`1",
+            "name": "QuitLayerOptions",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "PPtr<UISelectionBase>",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<Transform>",
+            "name": "QuitLayerParent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuMusicEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "songPreviewEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuTrainLoopEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuAcceptEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuBackEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuOptionToggleEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "menuSelectEvent",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "List`1",
+            "name": "songs",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "string",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 5,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        }
+    ]
+}

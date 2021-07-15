@@ -1,0 +1,133 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3236
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 618
+    },
+    "m_Name": "",
+    "defaultCam": {
+        "m_FileID": 0,
+        "m_PathID": 10377
+    },
+    "levelSelectCam": {
+        "m_FileID": 0,
+        "m_PathID": 10919
+    },
+    "playCam": {
+        "m_FileID": 0,
+        "m_PathID": 10819
+    },
+    "beatmapOptionsCam": {
+        "m_FileID": 0,
+        "m_PathID": 10734
+    },
+    "optionsCam": {
+        "m_FileID": 0,
+        "m_PathID": 10938
+    },
+    "impulseSource": {
+        "m_FileID": 0,
+        "m_PathID": 10783
+    },
+    "optionsMenu": {
+        "m_FileID": 0,
+        "m_PathID": 2419
+    },
+    "beatmapOptionsMenu": {
+        "m_FileID": 0,
+        "m_PathID": 10354
+    },
+    "Walkman": {
+        "m_FileID": 0,
+        "m_PathID": 10051
+    },
+    "SongNameA": {
+        "m_FileID": 0,
+        "m_PathID": 10286
+    },
+    "DifficultyNameA": {
+        "m_FileID": 0,
+        "m_PathID": 10227
+    },
+    "HighScoreA": {
+        "m_FileID": 0,
+        "m_PathID": 10270
+    },
+    "SongNameB": {
+        "m_FileID": 0,
+        "m_PathID": 10257
+    },
+    "DifficultyNameB": {
+        "m_FileID": 0,
+        "m_PathID": 10292
+    },
+    "HighScoreB": {
+        "m_FileID": 0,
+        "m_PathID": 10275
+    },
+    "TitleParent": {
+        "m_FileID": 0,
+        "m_PathID": 4838
+    },
+    "TopLayerOptions": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 10448
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 10580
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 10384
+        }
+    ],
+    "PlayOption": {
+        "m_FileID": 0,
+        "m_PathID": 10384
+    },
+    "TopLayerParent": {
+        "m_FileID": 0,
+        "m_PathID": 4445
+    },
+    "QuitLayerOptions": [
+        {
+            "m_FileID": 0,
+            "m_PathID": 10648
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": 10356
+        }
+    ],
+    "QuitLayerParent": {
+        "m_FileID": 0,
+        "m_PathID": 3467
+    },
+    "menuMusicEvent": "event:/menu/music",
+    "songPreviewEvent": "event:/BeatmapPreview",
+    "menuTrainLoopEvent": "event:/menu/train_loop",
+    "menuAcceptEvent": "event:/menu/accept",
+    "menuBackEvent": "event:/menu/back",
+    "menuOptionToggleEvent": "event:/menu/music",
+    "menuSelectEvent": "event:/menu/select",
+    "songs": [
+        "EMPTY DIARY",
+        "PROPERRHYTHM",
+        "Mirror",
+        "FOREVER NOW",
+        "Waiting",
+        "Familiar",
+        "NOISZ - Done In Love",
+        "NOISZ - True",
+        "EMPTY DIARY DANTE",
+        "Forever Now - DOG_NOISE Remix",
+        "PROPERRHYTHM MUST DIE",
+        "FOREVER WHEN"
+    ]
+}

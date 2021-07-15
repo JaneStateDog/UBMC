@@ -1,0 +1,250 @@
+{
+    "BeatmapIndex": [
+        {
+            "level": 0,
+            "type": "MonoBehaviour",
+            "name": "Base",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "PPtr<GameObject>",
+            "name": "m_GameObject",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "UInt8",
+            "name": "m_Enabled",
+            "meta_flag": 16384
+        },
+        {
+            "level": 1,
+            "type": "PPtr<MonoScript>",
+            "name": "m_Script",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "string",
+            "name": "m_Name",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "String[]",
+            "name": "songNames",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "string",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 5,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "String[]",
+            "name": "difficulties",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "string",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 5,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 1,
+            "type": "BeatmapInfo[]",
+            "name": "beatmaps",
+            "meta_flag": 0
+        },
+        {
+            "level": 2,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 3,
+            "type": "BeatmapInfo",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "PPtr<TextAsset>",
+            "name": "textAsset",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "int",
+            "name": "m_FileID",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "SInt64",
+            "name": "m_PathID",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "string",
+            "name": "songName",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 6,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 6,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        },
+        {
+            "level": 4,
+            "type": "string",
+            "name": "difficulty",
+            "meta_flag": 0
+        },
+        {
+            "level": 5,
+            "type": "Array",
+            "name": "Array",
+            "meta_flag": 16384
+        },
+        {
+            "level": 6,
+            "type": "int",
+            "name": "size",
+            "meta_flag": 0
+        },
+        {
+            "level": 6,
+            "type": "char",
+            "name": "data",
+            "meta_flag": 0
+        }
+    ]
+}

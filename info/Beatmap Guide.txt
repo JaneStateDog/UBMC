@@ -1,0 +1,29 @@
+Hey y'all here is some super sloppy insturctions written in five minutes on what does what when making a beatmap for Unbeatable in OSU!
+
+
+
+Must be 6 lane osu mania beatmap
+
+
+The left two lanes are called "Command lanes" they are used to do certain commands (used mostly in the tutorial)
+These are not too helpful in standard mapping, so I haven't spent the time to document them properly
+From what I know, normal notes on the left most lane will hault the game if the player fails to hit the note at the same time in the middle two lanes (like in the tutorial)
+I haven't seen a time where the second lane is used, but in the code it is still considered part of the "Command lanes"
+It could possibly just be the same as the first but in case you want two commands at once
+While doing a little bit of testing it did kind of a weird thing when using a whistle note on a command lane, but that was barely tested so I dunno man try it yourself and figure it out
+
+
+Middle two lanes are top and bottom
+If a normal note in the middle two has a whistle then it is a dodge block
+If a hold note in the middle two has a whistle it is the blue hit note
+If any note in the middle two has a clap on it it is a hiding note
+Any note with a finish on it will give an automatic game over when gotten to it, no matter what (I don't know why man. The game files for the sprite that shows is the same name as one of the characters for some reason.)
+
+
+On a normal note on the second to last lane then switch directions
+On a whistle note on the second to last lane then pan camera out
+On a hold note on the second to last lane then prepare the player for a bit before switching directions
+
+
+Normal notes on the last lane go to the freestyle monsters
+Hold notes on the last lane go to spam monsters

@@ -1,0 +1,651 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 0,
+    "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 824
+    },
+    "m_Name": "BeatmapIndex",
+    "songNames": [
+        "beat has a bad day",
+        "EMPTY DIARY",
+        "EMPTY DIARY ACOUSTIC",
+        "Familiar",
+        "FOREVER NOW",
+        "FOREVER WHEN",
+        "Mirror",
+        "PROPERRHYTHM",
+        "Waiting",
+        "WORNOUTTAPES",
+        "coolfinal",
+        "NOISZ - True",
+        "NOISZ - Done In Love",
+        "EMPTY DIARY DANTE",
+        "Forever Now - DOG_NOISE Remix",
+        "PROPERRHYTHM MUST DIE",
+        "OFFSETWIZARD",
+        "BLANK PAGE"
+    ],
+    "difficulties": [
+        "Beginner",
+        "Easy",
+        "Normal",
+        "Hard",
+        "UNBEATABLE",
+        "Trailer",
+        "Tutorial"
+    ],
+    "beatmaps": [
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 80
+            },
+            "songName": "beat has a bad day",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 123
+            },
+            "songName": "EMPTY DIARY",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 72
+            },
+            "songName": "EMPTY DIARY",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 92
+            },
+            "songName": "EMPTY DIARY",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 110
+            },
+            "songName": "EMPTY DIARY",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 140
+            },
+            "songName": "EMPTY DIARY",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 117
+            },
+            "songName": "EMPTY DIARY ACOUSTIC",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 109
+            },
+            "songName": "EMPTY DIARY ACOUSTIC",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 78
+            },
+            "songName": "EMPTY DIARY ACOUSTIC",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 79
+            },
+            "songName": "FOREVER NOW",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 98
+            },
+            "songName": "FOREVER NOW",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 146
+            },
+            "songName": "FOREVER NOW",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 106
+            },
+            "songName": "FOREVER NOW",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 127
+            },
+            "songName": "FOREVER NOW",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 86
+            },
+            "songName": "FOREVER WHEN",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 141
+            },
+            "songName": "FOREVER WHEN",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 99
+            },
+            "songName": "FOREVER WHEN",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 126
+            },
+            "songName": "FOREVER WHEN",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 107
+            },
+            "songName": "FOREVER WHEN",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 145
+            },
+            "songName": "Mirror",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 114
+            },
+            "songName": "Mirror",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 129
+            },
+            "songName": "Mirror",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 100
+            },
+            "songName": "Mirror",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 142
+            },
+            "songName": "Mirror",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 138
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "Tutorial"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 94
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 113
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 144
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 91
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 73
+            },
+            "songName": "PROPERRHYTHM",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 116
+            },
+            "songName": "Waiting",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 137
+            },
+            "songName": "Waiting",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 76
+            },
+            "songName": "Waiting",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 96
+            },
+            "songName": "Waiting",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 112
+            },
+            "songName": "Waiting",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 102
+            },
+            "songName": "WORNOUTTAPES",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 84
+            },
+            "songName": "WORNOUTTAPES",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 135
+            },
+            "songName": "WORNOUTTAPES",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 120
+            },
+            "songName": "Familiar",
+            "difficulty": "Tutorial"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 69
+            },
+            "songName": "Familiar",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 130
+            },
+            "songName": "Familiar",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 88
+            },
+            "songName": "Familiar",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 90
+            },
+            "songName": "Familiar",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 108
+            },
+            "songName": "Familiar",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 104
+            },
+            "songName": "coolfinal",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 133
+            },
+            "songName": "coolfinal",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 132
+            },
+            "songName": "coolfinal",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 101
+            },
+            "songName": "coolfinal",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 97
+            },
+            "songName": "coolfinal",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 111
+            },
+            "songName": "NOISZ - True",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 121
+            },
+            "songName": "NOISZ - True",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 75
+            },
+            "songName": "NOISZ - True",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 139
+            },
+            "songName": "NOISZ - True",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 105
+            },
+            "songName": "NOISZ - True",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 119
+            },
+            "songName": "NOISZ - Done In Love",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 131
+            },
+            "songName": "NOISZ - Done In Love",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 81
+            },
+            "songName": "NOISZ - Done In Love",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 70
+            },
+            "songName": "NOISZ - Done In Love",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 125
+            },
+            "songName": "NOISZ - Done In Love",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 74
+            },
+            "songName": "EMPTY DIARY DANTE",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 95
+            },
+            "songName": "EMPTY DIARY DANTE",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 77
+            },
+            "songName": "EMPTY DIARY DANTE",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 85
+            },
+            "songName": "EMPTY DIARY DANTE",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 124
+            },
+            "songName": "EMPTY DIARY DANTE",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 82
+            },
+            "songName": "Forever Now - DOG_NOISE Remix",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 134
+            },
+            "songName": "Forever Now - DOG_NOISE Remix",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 103
+            },
+            "songName": "Forever Now - DOG_NOISE Remix",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 115
+            },
+            "songName": "Forever Now - DOG_NOISE Remix",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 89
+            },
+            "songName": "Forever Now - DOG_NOISE Remix",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 83
+            },
+            "songName": "PROPERRHYTHM MUST DIE",
+            "difficulty": "Beginner"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 122
+            },
+            "songName": "PROPERRHYTHM MUST DIE",
+            "difficulty": "Easy"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 87
+            },
+            "songName": "PROPERRHYTHM MUST DIE",
+            "difficulty": "Normal"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 93
+            },
+            "songName": "PROPERRHYTHM MUST DIE",
+            "difficulty": "Hard"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 71
+            },
+            "songName": "PROPERRHYTHM MUST DIE",
+            "difficulty": "UNBEATABLE"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 118
+            },
+            "songName": "OFFSETWIZARD",
+            "difficulty": "OFFSETWIZARD"
+        },
+        {
+            "textAsset": {
+                "m_FileID": 0,
+                "m_PathID": 136
+            },
+            "songName": "BLANK PAGE",
+            "difficulty": "UNBEATABLE"
+        }
+    ]
+}

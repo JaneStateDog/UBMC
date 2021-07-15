@@ -1,0 +1,18 @@
+Unbeatable Mod Creator (UBMC)
+Created by JakeTheFromStateDog (also known as Jane or JaneTheFromStateDog)
+This is version 0.0
+
+
+Load the main.exe file. Put in the name for your mod in "New mod file name" then select a location for the file. If you have an existing mod config, you can load that with "Old mod file location".
+After doing that, hit "Continue". In the "Game data folder" input make sure you put in the location of your "UNBEATABLE [white label]_Data" folder (you can find this using Steam's browse local files.)
+Select a song you'd like to edit, then hit "Edit song". In "Song nickname" you can put a nickname. This doesn't appear in the game at all, it's just to keep track of it through this mod tool.
+Put the location of your song file in the "Song file location" (so it could be MP3, WAV, OGG, etc..)
+Once you do that, hit "Add beatmap". You can add infinite beatmaps. Put the location of your beatmap in "Beatmap location".
+Click "Add". When you're done with your beatmaps, hit "Save".
+When you're done with everything, hit the "Save" on the main menu. In the console you'll see text going through.
+Let it load for a while, it may take a minute. Once it's finished it should close.
+Navigate to the "out" folder (it's in the same folder as main.exe.) In that folder should be a file called "{your mod name}.rar". Extract that file with a program such as 7zip.
+You'll get a folder named "UNBEATABLE [white label]_Data". Simply replace the one in the local game files with that new one. And you're done! Load up the game and have fun!
+
+
+I highly suggest you back up the original game files. It makes it easier.
